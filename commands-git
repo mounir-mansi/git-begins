@@ -7,3 +7,4 @@ Commande pour push :
 2 git addgit add --all
 3 git push -u origin "branche"
 
+git pull
