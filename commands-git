@@ -8,3 +8,9 @@ Commande pour push :
 3 git push -u origin "branche"
 
 git pull
+
+git branch add-create-branch-command
+
+git switch add-create-branch-command
+ou 
+git checkout add-create-branch-command
