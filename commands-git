@@ -1,10 +1,1 @@
-Commande qui permet de cloner un repo :
-git clone https://github.com/mounir-mansi/git-begins.git
-
-
-Commande pour push :
-1 git commit -m "nom du commit"
-2 git addgit add --all
-3 git push -u origin "branche"
-
-git pull
+truc
